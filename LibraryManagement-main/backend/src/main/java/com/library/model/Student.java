@@ -43,30 +43,30 @@ public class Student {
         this.schoolID=schoolID;
     }
 
-    public int getId(){
-        return id;
-    }
-    public String getName(){
-        return name;
-    }
-    public String getPlace(){
-        return place;
-    }
-    public School getSchoolId(){
-        return schoolID;
-    }
-
-    public void putId(int id){
-        this.id=id;
-    }
-     public void putName(String name){
-        this.name=name;
-    }
-     public void putPlace(String place){
-        this.place=place;
-    }
-     public void putSchoolId(School schoolID){
-        this.schoolID=schoolID;
-    }
+//    public int getId(){
+//        return id;
+//    }
+//    public String getName(){
+//        return name;
+//    }
+//    public String getPlace(){
+//        return place;
+//    }
+//    public School getSchoolId(){
+//        return schoolID;
+//    }
+//
+//    public void putId(int id){
+//        this.id=id;
+//    }
+//     public void putName(String name){
+//        this.name=name;
+//    }
+//     public void putPlace(String place){
+//        this.place=place;
+//    }
+//     public void putSchoolId(School schoolID){
+//        this.schoolID=schoolID;
+//    }
 }
 
